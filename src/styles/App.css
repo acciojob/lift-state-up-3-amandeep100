@@ -1,1 +1,23 @@
 
+.parent {
+  background-color: #66ff00; /* green */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.child1 {
+  background-color: #cc6600; /* orange */
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.child2 {
+  background-color: #ffcc00; /* yellow */
+  padding: 20px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
